@@ -2,6 +2,7 @@
 
 # Screenshots or video of your application running on Godwoken.
 ![app](./addition-app.png)
+![app2](./addition-app-2.png)
 
 # Link to the GitHub repository with your application which has been ported to Godwoken
 https://github.com/celoaken/gitcoin-nervos/tree/main/task7
